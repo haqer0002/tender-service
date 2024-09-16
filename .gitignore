@@ -1,0 +1,13 @@
+# Исключение окружений Python
+venv/
+env/
+
+# Исключение конфигураций IDE
+.vscode/
+.idea/
+
+# Файлы операционной системы macOS
+.DS_Store
+
+# Кеши Python
+__pycache__/
